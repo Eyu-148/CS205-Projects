@@ -1,0 +1,33 @@
+id,number,teacher_id,title,credits,level
+1,CS008,10,Intro to Web Site Dev,3,Introductory
+2,CS021,15,Computer Programming I,3,Introductory
+3,CS050,7,Seminar for New CS Majors,1,Introductory
+4,CS087,22,Intro to Data Science,3,Introductory
+5,CS110,15,Intermediate Programming,4,Intermediate
+6,CS120,7,Advanced Programming,3,Intermediate
+7,CS121,9,Computer Organization,3,Intermediate
+8,CS124,7,Data Struc & Algorithms,3,Intermediate
+9,CS125,20,Computability& Complexity,3,Intermediate
+10,CS148,10,Database Design for Web,3,Intermediate
+11,CS166,9,Cybersecurity Principles,3,Intermediate
+12,CS187,22,Basics of Data Science,3,Intermediate
+13,CS192,7,Service Learning in CS,1,Intermediate
+14,CS195,15,Intro to Database Systems,3,Intermediate
+15,CS201,14,Operating Systems,3,Advanced
+16,CS204,19,Database Systems,3,Advanced
+17,CS205,14,Software Engineering,3,Advanced
+18,CS211,23,Data Privacy,3,Advanced
+19,CS224,14,Algorithm Design & Analysis,3,Advanced
+20,CS211,23,Data Privacy,3,Advanced
+22,CS225,28,Programming Languages,3,Advanced
+23,CS228,11,Human-Computer Interaction,3,Advanced
+24,CS237,6,Intro to Numerical Analysis,3,Advanced
+25,CS254,17,Machine Learning,3,Advanced
+26,CS266,24,Network Security & Cryptography,3,Advanced
+27,CS275,14,Mobile App Development,3,Advanced
+28,CS287,25,Data Science I,3,Advanced
+29,CS292,7,Senior Seminar,1,Advanced
+30,CS293,12,Computing Career Preparation,1,Advanced
+31,CS302,13,Modeling Complex Systems,3,Advanced
+32,CS352,5,Evolutionary Computation,3,Advanced
+33,CS395,18,Data Visualization,3,Advanced

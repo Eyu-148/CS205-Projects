@@ -1,0 +1,32 @@
+id,name,email,title,expertise,office_location
+1,Spencer Backman,Spencer.Backman@uvm.edu,Assistant Professor ,Algebraic and Geometric Combinatorics,Innovation E441
+2,James Bagrow,James.Bagrow@uvm.edu,Assistant Professor,"Network Science, Complex Systems, Data Science and Machine Learning, Computational Social Science, Mathematical Modeling",Innovation E426
+3,Clayton Cafiero,Brian.Beckage@uvm.edu,Professor,"Biocomplexity, computational models of ecosystems, population and community dynamics, effects of disturbances and climate change on biodiversity",Somewhere in Innovation
+4,Joshua Bongard,jbongard@uvm.edu,Professor,"Evolutionary robotics, evolutionary computation, physical simulation",Innovation E428
+5,Nicholas Cheney,ncheney@uvm.edu,Assistant Professor,"Deep Reinforcement Learning, Evolutionary Robotics, Artificial Intelligence, Artificial Life",Innovation E411
+6,Chris Danforth,Chris.Danforth@uvm.edu,Professor,"Chaos, Mathematical Modeling, Computational Methods, Numerical Weather Prediction, Complex Systems, Computational Social Science",Innovation E422
+7,Lisa Dion,Lisa.Dion@uvm.edu,Senior Lecturer,"C++, Python, Java and Git",Innovation E314
+8,Peter Dodds,Peter.Dodds@uvm.edu,Professor,"Complex systems and networks, contagion, sociotechnical phenomena, happiness, stories.",Innovation E418
+9,James Eddy,James.Eddy@uvm.edu,Lecturer,"Cybersecurity and cryptography, embedded systems programming, and computer organization/architecture",Innovation E309
+10,Robert Erickson,Robert.Erickson@uvm.edu,Senior Lecturer,"Education in Computer Science, Online Learning, Web development",Innovation E304
+11,Yuanyuan Feng,Yuanyuan.Feng@uvm.edu,Assistant Professor,"Human-computer interaction, usable privacy and security, privacy-enhancing technologies, health informatics",Innovation E454
+12,Holly Fosher,Holly.Fosher@uvm.edu,Career Readiness Coordinator,Career Readiness,Perkins 100
+13,Laurent Hebert-Dufresne,Laurent.Hebert-Dufresne@uvm.edu,Associate Professor,"Complex Networks, Dynamics of Contagion, Network Comparison",Somewhere in Innovation
+14,Jason Hibbeler,Jason.Hibbeler@uvm.edu,Professor,"Software engineering, mobile app development, operating systems, optimization",Innovation E315
+15,Jackie Horton,Jackie.Horton@uvm.edu,Senior Lecturer,Java!,Innovation E318
+16,Dryver Huston,Dryver.Huston@uvm.edu,Professor,"Smart Cities and Structures, Structural Health Monitoring, Subsurface Infrastructure Sensing, GPR, Spine Mechanics",Votey 201E
+17,Safwan Wshah,Safwan.Wshah@uvm.edu,Assistant Professor,"Machine Learning, Image & Video Processing, Deep Learning, Pattern Recognition, Computer Vision, Document Imaging & Digital Signal Processing.",Innovation 417
+18,Ethan Kerzner,Ethan.Kerzner@uvm.edu,Part time Lecturer,Data Visualization,Somewhere in Innovation
+19,Byung Lee,bslee@uvm.edu,Professor,"Database. Data mining, data stream, query processing, event processing",Innovation E409
+20,Isaac Levy,ilevy@uvm.edu,Lecturer,"Distributed Computing, Python",Inoovation E305
+21,Laura Marthaler,Laura.Marthaler@uvm.edu,Lecturer,"Combinatorics, Graph Theory, Data Communications, Networking",Innovation E326
+22,Jacob Martin,Jacob.W.Martin@uvm.edu,Senior Lecturer,Statistics Education,Innovation E429
+23,Joseph Near,jnear@uvm.edu,Assitant Professor,"Data privacy, security, programming languages, and software engineering",Innovation E458
+24,Jeremiah Onaolapo,Jeremiah.Onaolapo@uvm.edu,Assitant Professor,"Cybersecurity, Understanding Malicious Activity in Online Accounts, Honeypots, Social Network Security",Innovation E407
+25,Alice Patania,apatania@uvm.edu,Research Assitant Professor,"Topological Data Analysis, Computational Topology, Network Neuroscience, Network Science",Innovation E442
+26,Kevin Plis,Kevin.Plis@uvm.edu,Lecturer,Computer Science Education,Discovery E304
+27,Donna Rizzo,drizzo@uvm.edu,"Professor, Graduate Student Advisor","Development of new computational tools, including artificial neural networks, to improve the understanding of human induced changes on natural systems and the way we make decisions about natural resources",Votey 219
+28,Chris Skalka,Christian.Skalka@uvm.edu,"Chair, Professor, Graduate Student Advisor","Programming languages and type theory, security and privacy in distributed systems",Innovation E224
+29,Emma Tosch,Emma.Tosch@uvm.edu,Assitant Professor,"Programming language design, experimental design, explainability, computational social science methodology",Somewhere in Innovation
+30,Asim Zia,Asim.Zia@uvm.edu,"Professor, Graduate Student Advisor","Computational Policy Analysis, Decision Analysis, Complex Systems",Morrill 208E
+31,Linda Schadler,Linda.Schadler@uvm.edu,Dean of CEMS,"Mechanical, Optical, and Electrical Behavior of Nanofilled Polymer Composites",Votey Office of Dean
